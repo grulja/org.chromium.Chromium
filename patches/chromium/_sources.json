@@ -16,6 +16,7 @@
       "patches/chromium/Add-support-for-respecting-system-proxy-settings-when-runn.patch",
       "patches/chromium/Clang-build-script-Allow-passing-a-prebuilt-Clang-for-boos.patch",
       "patches/chromium/Clang-build-script-Disable-hwasan.patch"
+      "patches/Chromium-Dmabuf-Fix.patch"
     ]
   }
 ]
